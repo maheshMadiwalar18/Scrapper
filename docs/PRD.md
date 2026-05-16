@@ -1,10 +1,10 @@
 # Product Requirements Document (PRD)
 
 > **Reasoning Preamble**
-> The central tension in building Scrapper is balancing comprehensiveness with quality filtering. A search engine that indexes everything becomes Google; its value proposition is lost. However, filtering too aggressively might hide niche, valuable content. The trade-off is accepting a smaller, highly curated index over a massive, noisy one. This means we trade recall for precision. For an Indian engineering student on a 4G connection during exam season, the product must be brutally minimal, fast, and devoid of marketing fluff. The constraint of "low latency and high relevance under pressure" dictates a UI with zero onboarding, no popups, and a backend focused on surfacing PDFs and GitHub repos directly, bypassing SEO-optimized intermediary pages.
+> The central tension in building Scraper is balancing comprehensiveness with quality filtering. A search engine that indexes everything becomes Google; its value proposition is lost. However, filtering too aggressively might hide niche, valuable content. The trade-off is accepting a smaller, highly curated index over a massive, noisy one. This means we trade recall for precision. For an Indian engineering student on a 4G connection during exam season, the product must be brutally minimal, fast, and devoid of marketing fluff. The constraint of "low latency and high relevance under pressure" dictates a UI with zero onboarding, no popups, and a backend focused on surfacing PDFs and GitHub repos directly, bypassing SEO-optimized intermediary pages.
 
 ## 1. Product Vision
-Scrapper is a hyper-focused educational search engine that cuts through the noise of modern web search. It empowers engineering students to instantly find high-quality, free learning resources—like PDFs, handwritten notes, and code repositories—without wading through paid courses, affiliate blogs, or SEO spam. It is the librarian for the open educational web.
+Scraper is a hyper-focused educational search engine that cuts through the noise of modern web search. It empowers engineering students to instantly find high-quality, free learning resources—like PDFs, handwritten notes, and code repositories—without wading through paid courses, affiliate blogs, or SEO spam. It is the librarian for the open educational web.
 
 ## 2. Problem Statement
 When a computer science student in a Tier-2 Indian city searches for "Operating Systems VTU 5th sem notes pdf" at 2 AM the night before an exam, they are met with a barrage of obstacles. They click on a promising link, only to find a 2,000-word SEO article that eventually leads to a broken Google Drive link, a paywall, or a prompt to download a shady app. The failure is not a lack of content; it is the burying of actual educational material beneath engagement-farmed garbage. The student loses time, focus, and trust in the search experience.
@@ -45,7 +45,7 @@ When a computer science student in a Tier-2 Indian city searches for "Operating 
   - *Feature:* **AI-Assisted Relevance Badges.** We parse the first few pages of a PDF to verify subject match and display a "Verified Match" badge.
 
 ## 6. Product Philosophy
-To remain true to our mission, Scrapper will consistently sacrifice:
+To remain true to our mission, Scraper will consistently sacrifice:
 - **Visual Flashiness** for **Load Speed.** (No complex animations).
 - **Index Size** for **Index Quality.** (We will drop 100 mediocre tutorials to keep 1 excellent one).
 - **Engagement Metrics (Time on Site)** for **Utility.** (If a user finds a PDF and leaves in 5 seconds, that is a success, not a failure).

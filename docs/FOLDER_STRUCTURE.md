@@ -4,7 +4,7 @@
 > The folder structure splits the frontend and backend completely. The backend is structured using Domain-Driven Design (DDD) principles because a monolithic `models.py` or `views.py` becomes unmaintainable when the scraping logic grows complex. By separating `api`, `services`, and `workers`, we ensure that the API layer never imports from the heavy worker layer.
 
 ```text
-scrapper/
+scraper/
 ├── frontend/                  # Next.js Application
 │   ├── src/
 │   │   ├── app/               # App Router pages (page.tsx, layout.tsx)

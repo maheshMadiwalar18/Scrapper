@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">🔍 scraper</h1>
+  <h1 align="center">🔍 Scraper</h1>
   <p align="center"><strong>The Educational Resource Search Engine That Actually Works</strong></p>
   <p align="center">
     <em>Curated engineering resources. Zero spam. Built for Indian students.</em>
@@ -8,15 +8,15 @@
 
 ---
 
-## What is scraper?
+## What is Scraper?
 
-scraper is a **curated educational search engine** purpose-built for engineering students. It discovers, indexes, and surfaces genuinely valuable learning resources — PDFs, handwritten notes, GitHub repositories, previous year papers, roadmaps, and community-curated study material — while aggressively filtering out the SEO spam, paid course landing pages, and engagement-farmed content that dominates general-purpose search engines.
+Scraper is a **curated educational search engine** purpose-built for engineering students. It discovers, indexes, and surfaces genuinely valuable learning resources — PDFs, handwritten notes, GitHub repositories, previous year papers, roadmaps, and community-curated study material — while aggressively filtering out the SEO spam, paid course landing pages, and engagement-farmed content that dominates general-purpose search engines.
 
-**The problem it solves:** A student searching "Operating Systems notes VTU 5th sem" on Google gets 10 pages of affiliate links, paid course ads, and AI-generated filler. scraper returns the actual PDF they need in under 2 seconds.
+**The problem it solves:** A student searching "Operating Systems notes VTU 5th sem" on Google gets 10 pages of affiliate links, paid course ads, and AI-generated filler. Scraper returns the actual PDF they need in under 2 seconds.
 
-## Why scraper Exists
+## Why Scraper Exists
 
-| What Google Shows | What scraper Shows |
+| What Google Shows | What Scraper Shows |
 |---|---|
 | Paid course landing pages | Actual PDF notes and papers |
 | SEO-optimized blog spam | Community-curated learning material |
