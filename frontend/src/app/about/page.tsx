@@ -149,7 +149,7 @@ export default function About() {
           </div>
 
           <div className="mt-12 pt-12 border-t border-zinc-800 flex flex-col items-center">
-            <h3 className="text-2xl font-semibold mb-4 text-white">Ready to study without the noise?</h3>
+            <h3 className="text-2xl font-semibold mb-4 text-white">Ready to study without the noise? Get started.</h3>
             <Link href="/" className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-white text-black font-semibold hover:bg-zinc-200 transition-colors">
               <SearchIcon className="w-5 h-5" />
               Start Searching Now
