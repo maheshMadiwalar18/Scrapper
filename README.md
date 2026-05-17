@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">🔍 Scraper</h1>
-  <p align="center"><strong>The Educational Resource Search Engine That Actually Works</strong></p>
+  <p align="center"><strong>The Digital Librarian for the Open Educational Web</strong></p>
   <p align="center">
     <em>Curated engineering resources. Zero spam. Built for Indian students.</em>
   </p>
