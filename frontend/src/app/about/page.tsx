@@ -26,7 +26,7 @@ export default function About() {
             Our Mission
           </div>
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-8 font-[family-name:var(--font-outfit)] text-transparent bg-clip-text bg-gradient-to-r from-white via-indigo-200 to-zinc-400">
-            The Librarian for the <br className="hidden md:block" /> Open Educational Web
+            The Digital Librarian for the <br className="hidden md:block" /> Open Educational Web
           </h1>
           <p className="text-xl md:text-2xl text-zinc-400 max-w-3xl mx-auto leading-relaxed">
             Scraper cuts through the noise of modern web search, empowering engineering students to instantly find high-quality, free learning resources.
